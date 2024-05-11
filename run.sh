@@ -1,4 +1,7 @@
-#!/bin/bash
+# Update this file to run your own code
 
-make build
-make run
+cd solution
+npm i
+cd ..
+node ./solution/index.js
+

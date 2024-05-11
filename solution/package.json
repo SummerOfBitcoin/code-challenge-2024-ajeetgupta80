@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "Solution for the mining process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Narasimha",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "elliptic": "^6.5.5",
+    "fs": "^0.0.1-security"
+  }
+}
