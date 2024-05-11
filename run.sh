@@ -1,8 +1,4 @@
+#!/bin/bash
 
-
-
-
-# Update this file to run your own code
-#
-#
-node output.js
+make build
+make run
